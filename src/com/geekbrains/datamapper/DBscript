@@ -1,0 +1,5 @@
+create table students (
+    id int primary key,
+    lastname varchar(32),
+    firstname varchar(32),
+    grade int;
